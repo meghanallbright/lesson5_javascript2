@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 22, 2017
 
 ### Student Name:  
-(First and Last Name)
+Meghan Allbright
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was to complete the code using if/else statements to create a successful tax calculator.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
